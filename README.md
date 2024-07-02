@@ -52,8 +52,8 @@ Let's add a `devcontainer.json` file and add a custom image.
      "image": "mcr.microsoft.com/vscode/devcontainers/universal:latest",
 
      "remoteUser": "codespace",
-     "overrideCommand": false
-   }
+     "overrideCommand": false   
+   } 
    ```
 
 1. Click **Commit changes** and then select **Commit changes directly to the `main` branch**.
